@@ -1,0 +1,54 @@
+.x1 {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  text-align: center;
+  font-size: 100px;
+  color: khaki;
+}
+.y1 {
+  background: red;
+}
+.gg {
+  background: rgb(245, 241, 241);
+}
+.gg1 {
+  border: 3px;
+  border-style: solid;
+  border-color: #ff0000;
+  padding: 1em;
+  font-family: "Krona One", sans-serif;
+}
+.email {
+  font-family: "Krona One", sans-serif;
+}
+.phone {
+  font-family: "Krona One", sans-serif;
+}
+
+.ab,
+.efg {
+  position: relative;
+  left: 80px;
+}
+#contact {
+  position: relative;
+  left: 60px;
+}
+
+.x123 {
+  font-size: 60px;
+}
+#about,
+.azer {
+  position: relative;
+  left: 80px;
+}
+.footer {
+  border: 3px;
+  border-style: solid;
+  border-color: #ff0000;
+  padding: 1em;
+  font-family: "Krona One", sans-serif;
+}
+.tyu {
+  font-family: "Roboto", sans-serif;
+}
